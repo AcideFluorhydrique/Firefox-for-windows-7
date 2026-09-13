@@ -5,6 +5,8 @@ Firefox 115 is the last version to support Windows 7. This repository includes p
 
 **Firefox is a Trademark of The Mozilla Foundation.**
 
+**This repository will no longer be updated. Please go to https://github.com/e3kskoy7wqk/Firefox-for-windows-7-REWORK for future updates.**
+
 ## Platform Support
 
 Windows 7.
